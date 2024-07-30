@@ -1,0 +1,22 @@
+{
+  "name": "Metaplex Whitepaper NFT",
+  "symbol": "MPLXHOLDER",
+  "description": "Special edition release of the Metaplex white paper as a collectible digital asset featuring artwork created using ContrastiveAI. Exclusive to $MPLX holders and limited to 1000 prints.",
+  "seller_fee_basis_points": 0,
+  "image": "https://arweave.net/HSPOTCeE4rNoFTV0sahzhMCaW3SlXoBDcWI8Aj-Qqpg",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://arweave.net/HSPOTCeE4rNoFTV0sahzhMCaW3SlXoBDcWI8Aj-Qqpg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "F45V1mWM29RKnPTHi8vDsNpq1AQZ3fTRMF2LWr2wodcJ",
+        "share": 100
+      }
+    ]
+  }
+}
