@@ -1,0 +1,59 @@
+{
+  "name": "CET #0002",
+  "symbol": "CET",
+  "description": "CET is a collection of 1000 randomly generated 24x24 pixels NFTs on the Solana Blockchain. Each logo is unique and comes with different type and attributes varying in rarity.",
+  "seller_fee_basis_points": 600,
+  "image": "https://pet-sp-bucket.s3.ap-southeast-1.amazonaws.com/resources/cal.png",
+  "external_url": "https://jfream.io/",
+  "collection": {
+    "name": "CET Gen",
+    "family": "CET",
+    "verified": true
+  },
+  "attributes": [
+    {
+      "trait_type": "Attributes Count",
+      "value": 3
+    },
+    {
+      "trait_type": "Type",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Orange Shirt"
+    },
+    {
+      "trait_type": "Ears",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Black Cap"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://pet-sp-bucket.s3.ap-southeast-1.amazonaws.com/resources/cal.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "TimMVWPtXAAgnZpSVG2oQkznfknRtMiXJdcqhFfLXWd",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+}
