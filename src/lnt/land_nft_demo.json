@@ -1,8 +1,8 @@
 {
-  "name": "Land #2",
+  "name": "Land #3",
   "description": "Generative art on Solana.",
   "image": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/lnt/land.png",
-  "animation_url": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/lnt/land_gl.glb",
+  "animation_url": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/lnt/ranch.glb",
   "external_url": "https://example.com",
   "attributes": [
     {
