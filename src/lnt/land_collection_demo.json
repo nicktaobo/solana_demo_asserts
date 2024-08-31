@@ -1,0 +1,23 @@
+{
+  "name": "Land NFT",
+  "symbol": "LNT",
+  "description": "Special edition release of the NEBX as a collectible digital asset featuring artwork created using Land build art. Exclusive to $LNT holders and limited to 7000 prints.",
+  "seller_fee_basis_points": 250,
+  "external_url": "https://example.com",
+  "image": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/lnt/land.png",
+  "properties": {
+    "files": [
+      {
+        "type": "image/png",
+        "uri": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/lnt/land.png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "JBkm4HQK4pNDZj3WQFepqpf7QEsuPDF4Vk1KoVkrwCta",
+        "share": 100
+      }
+    ]
+  }
+}

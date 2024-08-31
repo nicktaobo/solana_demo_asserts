@@ -1,0 +1,35 @@
+{
+  "name": "Land #2",
+  "description": "Generative art on Solana.",
+  "image": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/lnt/land.png",
+  "animation_url": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/lnt/land_gl.glb",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "background color",
+      "value": "yellow"
+    },
+    {
+      "trait_type": "area",
+      "value": "55"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/abcd5678?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "collection": {
+      "name": "Land X NFT",
+      "family": "Land"
+    },
+    "creators": [
+      {
+        "address": "JBkm4HQK4pNDZj3WQFepqpf7QEsuPDF4Vk1KoVkrwCta",
+        "share": 100
+      }
+    ]
+  }
+}
