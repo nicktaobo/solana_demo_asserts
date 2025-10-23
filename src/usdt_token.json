@@ -1,0 +1,6 @@
+{
+  "name": "Tether USD Token",
+  "symbol": "USDT",
+  "description": "Fully reserved fiat-backed stablecoin created by Circle.",
+  "image": "https://raw.githubusercontent.com/nicktaobo/solana_demo_asserts/main/src/image/usdt.png"
+}
